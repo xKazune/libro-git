@@ -1,3 +1,5 @@
-todos son
-re contra
+todos son re contra
 putos
+
+y mi git
+no funciona una mierda
